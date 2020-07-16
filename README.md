@@ -1,2 +1,2 @@
 # Stock-Analysis-and-Prediction
-Analysis and visualization of stocks to get useful insights and consequently predict whether to buy or sell the stocks based on the OHLC prices using a classification model
+This project analyzes, visualizes, and consequently predicts the call for the stocks whether to buy or sell them using exploratory data analysis and machine learning techniques like regression and classification. 
